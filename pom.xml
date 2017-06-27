@@ -53,6 +53,12 @@
 			<artifactId>aws-java-sdk-polly</artifactId>
 			<version>1.11.77</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/ai.api/libai -->
+		<dependency>
+			<groupId>ai.api</groupId>
+			<artifactId>libai</artifactId>
+			<version>1.4.8</version>
+		</dependency>
 	</dependencies>
 
 	<build>
